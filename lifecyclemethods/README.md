@@ -9,7 +9,7 @@ To create a HelloWorld Activity using all lifecycles methods to display messages
 
 Latest Version Android Studio
 
-## ALGORITHM:
+## ALGORITHM:NJUHIH
 
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 
