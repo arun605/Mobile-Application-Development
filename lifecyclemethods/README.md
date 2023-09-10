@@ -1,11 +1,16 @@
-##Ex.No:1 To create a HelloWorld Activity using all lifecycles methods to display messages.
-AIM:
+# Ex.No:1 To create a HelloWorld Activity using all lifecycles methods to display messages.
+
+
+## AIM:
+
 To create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio.
 
-EQUIPMENTS REQUIRED:
+## EQUIPMENTS REQUIRED:
+
 Latest Version Android Studio
 
-ALGORITHM:
+## ALGORITHM:
+```
 
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 
@@ -20,13 +25,33 @@ Step 5: Design layout in activity_main.xml.
 Step 6: Display message give in MainActivity file.
 
 Step 7: Save and run the application.
+```
+
+## PROGRAM:
+```
+/*
+Program to print the text “Hello World”.
+Developed by:DHANUSH.G.R.
+Registeration Number :212221040038
+*/ep 3: Then select the Minimum SDK as shown below and click Next.
+
+Step 4: Then select the Empty Activity and click Next. Finally click Finish.
+
+Step 5: Design layout in activity_main.xml.
+
+Step 6: Display message give in MainActivity file.
+
+Step 7: Save and run the application.
+
+
 PROGRAM:
 /*
 Program to print the text “Hello World”.
 Developed by:ARUN KUMAR.V.P
 Registeration Number :212221040019
-*/
-activity_main.xml :
+*/```
+## activity_main.xml :
+```
 <?xml version="1.0" encoding="utf-8"?>
 
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -69,7 +94,10 @@ activity_main.xml :
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
-MainActivity.java :
+```
+
+## MainActivity.java :
+```
 package com.example.androidlifecycle;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -159,8 +187,9 @@ public class MainActivity extends AppCompatActivity
     }
     
 }
+```
 
-##OUTPUT
+## OUTPUT
 
 ![image](https://github.com/arun605/Mobile-Application-Development/assets/118738931/acec8471-12b0-4d60-9613-9d8c5cfc3915)
 
@@ -177,5 +206,5 @@ public class MainActivity extends AppCompatActivity
 ![image](https://github.com/arun605/Mobile-Application-Development/assets/118738931/842148a5-f9d5-40f9-86ce-ea12ad0f50aa)
 
 
-##RESULT
+## RESULT
 Thus a Simple Android Application create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio is developed and executed successfully.
