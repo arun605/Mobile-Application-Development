@@ -31,8 +31,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “Hello World”.
-Developed by:DHANUSH.G.R.
-Registeration Number :212221040038
+Developed by:ARUN KUMAR V.P
+Registeration Number :212221040019
 */ep 3: Then select the Minimum SDK as shown below and click Next.
 
 Step 4: Then select the Empty Activity and click Next. Finally click Finish.
